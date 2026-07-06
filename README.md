@@ -1,0 +1,1 @@
+Basic Autopsy is a digital forensics project that demonstrates the fundamentals of forensic investigation using the Autopsy platform. It focuses on analyzing digital evidence, recovering deleted files, examining file system artifacts, and documenting findings to support forensic analysis and incident investigations.
